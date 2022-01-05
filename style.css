@@ -1,0 +1,37 @@
+body{font-family: 'Poppins', sans-serif;margin:0px}
+h1{font-size: 40px;}
+h2{font-size: 35px;color: orange;}
+h3{color: red;}
+.page{color:green;}
+.facebook{text-decoration:none;
+background-image: linear-gradient(red,green);
+padding: 10px 20px;
+width: 700px;
+color: white;}
+.half-width{width:50%;padding-left:5%;}
+.half-width img{width:90%}
+.top-banner{display: flex;margin-bottom: 150px;}
+.tob-banner{background-image: url(top-banner.png);background-repeat: no-repeat;}
+.h{color:brown;}
+.link{text-decoration:none;
+  background: red;
+color:white;
+width: 700px;
+padding: 10px 20px;
+}
+.section{background-image: url(dream-bg.png);img-position:left;background-repeat:no-repeat;padding-left: 5%;}
+.div{width: 40%;
+  box-shadow: 5px 5px 10px red;
+margin-left: 5%;
+margin-right: 5%;
+table-border: black solid;
+padding-left: 5px;
+border-radius: 10px;
+}
+#div1{background-image:linear-gradient(red,green);
+   border-left:black 10px solid;
+  }
+  #div2{background-image: linear-gradient(blue,white);
+  border-right: orange,black; border-right: red 10px solid;}
+
+footer p{text-align:center;}
